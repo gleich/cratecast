@@ -1,6 +1,6 @@
 {
   "name": "cratescast",
-  "title": "cratescast",
+  "title": "Search crates.io",
   "description": "crates.io from raycast",
   "icon": "command-icon.png",
   "author": "matt",
@@ -8,7 +8,7 @@
   "commands": [
     {
       "name": "index",
-      "title": "Search Crates.io",
+      "title": "Search crates.io",
       "subtitle": "",
       "description": "Search for crates on crates.io",
       "mode": "view"
