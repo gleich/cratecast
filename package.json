@@ -1,5 +1,5 @@
 {
-  "name": "cratescast",
+  "name": "cratecast",
   "title": "Search crates.io",
   "description": "crates.io from raycast",
   "icon": "command-icon.png",
