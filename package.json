@@ -4,7 +4,7 @@
   "description": "crates.io from raycast",
   "icon": "icon.png",
   "author": "matt",
-  "license": "MIT",
+  "license": "MPL-2.0",
   "commands": [
     {
       "name": "index",
