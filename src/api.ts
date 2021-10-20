@@ -4,9 +4,9 @@ export interface Crate {
   name: string;
   version: string;
   downloads: number;
-  documentationURL: string;
-  homepageURL: string;
-  repositoryURL: string;
+  documentationURL?: string;
+  homepageURL?: string;
+  repositoryURL?: string;
 }
 
 export async function getCrates(search: string): Promise<Crate[]> {
