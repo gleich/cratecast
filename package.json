@@ -1,7 +1,7 @@
 {
   "name": "cratecast",
   "title": "Search crates.io",
-  "description": "crates.io from raycast",
+  "description": "Explore crates.io",
   "icon": "icon.png",
   "author": "matt",
   "license": "MPL-2.0",
@@ -9,7 +9,7 @@
     {
       "name": "index",
       "title": "Search crates.io",
-      "subtitle": "",
+      "subtitle": "crates.io",
       "description": "Search for crates on crates.io",
       "mode": "view"
     }
