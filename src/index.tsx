@@ -44,6 +44,10 @@ function Main(): JSX.Element {
                   content={`${c.name} = "${c.version}"`}
                   title="Copy Dependency Line"
                 />
+                <OpenInBrowserAction
+                  url={`https://crates.io/crates/${c.name}`}
+                  title="View on crates.io"
+                />
                 {c.documentationURL ? (
                   <OpenInBrowserAction
                     url={c.documentationURL}
